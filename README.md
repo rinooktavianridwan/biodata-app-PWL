@@ -1,6 +1,17 @@
-# biodata-app
+# Biodata App - Tugas 2 PWL
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplikasi biodata CV interaktif yang dibangun menggunakan Vue.js 3 dan Vite. Aplikasi ini menampilkan informasi pribadi dalam format CV yang menarik dengan dukungan tema light/dark mode.
+
+## 📋 Deskripsi Tugas
+
+**Tugas 2 - Pemrograman Web Lanjut (PWL)**
+
+Membuat aplikasi Vue.js yang menampilkan biodata/CV dengan ketentuan:
+- URL `./biodata` menampilkan halaman CV lengkap
+- Menampilkan foto profil dan informasi biodata
+- Responsive design untuk berbagai ukuran layar
+- Menggunakan Vue Router untuk navigasi
+- Styling konsisten dengan tema Vue
 
 ## Recommended IDE Setup
 
