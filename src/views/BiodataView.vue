@@ -41,7 +41,7 @@
         </section>
 
         <section class="experience">
-          <h3>Pengalaman Kerja</h3>
+          <h3>Pengalaman</h3>
           <div v-for="exp in biodata.pengalaman" :key="exp.id" class="experience-item">
             <h4>{{ exp.posisi }}</h4>
             <p><strong>{{ exp.perusahaan }}</strong></p>
